@@ -22,9 +22,5 @@
     {
         "ParameterKey": "PrivateSubnetCIDR2",
         "ParameterValue": "10.0.3.0/24"
-    },
-	{
-        "ParameterKey": "UbuntuAMI",
-        "ParameterValue": "ami-053b0d53c279acc90"
-      }
+    }
 ]
